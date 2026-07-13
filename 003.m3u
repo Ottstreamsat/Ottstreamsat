@@ -133,8 +133,9 @@ https://livestream.mediacci.com/ccitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="62" group-title="OTT_STREAMSAT",062. angel tv
 https://janya-digimix.akamaized.net/vglive-sk-351398/spanish/ngrp:angelspanish_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="63" group-title="OTT_STREAMSAT",063. Televid
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://liveingesta360.cdnmedia.tv/televidtvlive/smil:rtmp01.smil/playlist.m3u8?DVR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 15; Mobile; rv:152.0) Gecko/152.0 Firefox/152.0
+#EXTVLCOPT:http-referrer=https://televidplay.tv/
+https://liveingesta118.cdnmedia.tv/televidtvlive/rtmp02-1500/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="64" group-title="OTT_STREAMSAT",064. canal orbe 21
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/chunklist_w542801212_b413840.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="65" group-title="OTT_STREAMSAT",065. tv familia
