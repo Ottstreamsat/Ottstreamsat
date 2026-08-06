@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1,001. bandamax
-http://181.118.158.103:8000/play/a02f/index.m3u8
-#EXTINF:-1",002. la kalle
-http://181.78.0.156:8000/play/a02y/index.m3u8
-#EXTINF:-1,003. xite siempre latino
-https://d1xc25jm9e0l4b.cloudfront.net/XITE_Siempre_Latino.m3u8
