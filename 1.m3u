@@ -2,9 +2,9 @@
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="1" group-title="OTT_STREAMSAT",001. Free TV banda 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16564&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="2" group-title="OTT_STREAMSAT",002. la kalle
-#EXTVLCOPT:http-user-agent=app/12.302 (Linux;Android 15) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=lakalle.bluradio.com/senal-en-vivo-la-kalle
-https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8?uid=wcj6qPGFmhUxTXTRdxv2Xm0QRCqL0hP7&sid=RnXejj8eTt7uDqp6xJbVOk2eWURtLzjw&pid=NkiJ5X7esabuREZochsPyERhvbR6m7Yl&pid_dvr=CD4Cn4VL2tCEUOCdNbVQR8P2FQMAVdEs&an=screen&at=web-app&av=v7.0.90&ref=https%3A%2F%2Flakalle.bluradio.com%2F&res=320x220&without_cookies=false&listenerid=&dnt=true&adInsertionGoogleStreamId=508628db-d62f-40d3-83c0-402d4a0da169:MRN2&CMCD=cid%3D%2258d191f07290fbb058025843%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22NkiJ5X7esabuREZochsPyERhvbR6m7Yl%22%2Csu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 15; Mobile; rv:154.0) Gecko/154.0 Firefox/154.0
+#EXTVLCOPT:http-referrer=https://lakalle.bluradio.com/senal-en-vivo-la-kalle
+https://co-e1-p-e-aa1.cdn.mdstrm.com/live-stream-gdai/58d191f07290fbb058025843/linear/hls/pa/event/RRmIwzY8SeypJ5-icasjpw/stream/50bdb6f1-c341-4e81-bbe2-dafa2e7cd699:TUL/variant/2d150cf1f8bf955af5eb5879d5417378/bandwidth/1091200.m3u8?aid=589b127df30bc52f54100dcb&uid=c5QWCZpfLUaOtlk8JQej1yaLOVfbHir6&sid=gBXlCNDDNLw9f8RdL4SNqisDVfOPxSdb&pid=WKcnOwWHYDWM171NWih3E4aIWM7gg2VN&pid_dvr=dOnprR0wF2S4kxpKLmpVp5fgrNA5LWuN&ref=https%3A%2F%2Flakalle.bluradio.com%2F&without_cookies=false&listenerid=&dnt=true&adInsertionGoogleStreamId=50bdb6f1-c341-4e81-bbe2-dafa2e7cd699%3ATUL&CMCD=cid%3D%2258d191f07290fbb058025843%22%2Cmtp%3D21100%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22WKcnOwWHYDWM171NWih3E4aIWM7gg2VN%22&es=co-e1-p-e-aa1.cdn.mdstrm.com&ote=1786908959567&ot=5H9YiBWIhPUp9j1c1Gtuow&proto=https&pz=us&access_token=oSHKXOY23lt3mMxQCQzcSJA4IlXTSdfIhuriOajYT74G6zqnuULvoyrEZyR9rDudcpIG7S4D9dL
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="3" group-title="OTT_STREAMSAT",003. xite siempre latino
 https://d1xc25jm9e0l4b.cloudfront.net/XITE_Siempre_Latino.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="4" group-title="OTT_STREAMSAT",004. htv
@@ -172,9 +172,9 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:CHANNEL_2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="67" group-title="OTT_STREAMSAT",075. maría visión 2
 https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="76" group-title="OTT_STREAMSAT",076. caracol tv (canal regresamos)
-#EXTVLCOPT:http-user-agent=app/12.302 (Linux;Android 15) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=caracoltv.com/senal-vivo
-https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8?uid=wcj6qPGFmhUxTXTRdxv2Xm0QRCqL0hP7&sid=R4THP3uCDBvYq0DegTRIgOJWjVUldaw2&pid=gamMe9INdj1DcWayI5dt12fi0oxqHcOz&pid_dvr=JYH5vAM7znBPUqnpzOTJyxjZBVsp2As2&an=screen&at=web-app&av=v7.0.90&ref=https%3A%2F%2Fwww.caracoltv.com%2F&res=340x191&without_cookies=false&listenerid=&dnt=true&access_token=KEvcK27dEA2cpUNW7hHYaAsibDtnplh3e2zQDYRjO0JY7LGooFBP2wYjlSxHaXdFHuX5UqwG8ue&adInsertionGoogleStreamId=3e6f0eee-dc63-4e58-9243-df2ce5226c32:DLS&CMCD=cid%3D%22574463697b9817cf0886fc17%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22gamMe9INdj1DcWayI5dt12fi0oxqHcOz%22%2Csu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 15; Mobile; rv:154.0) Gecko/154.0 Firefox/154.0
+#EXTVLCOPT:http-referrer=https://www.caracoltv.com/senal-vivo
+https://co-e1-p-e-aa1.cdn.mdstrm.com/live-stream-gdai/574463697b9817cf0886fc17/linear/hls/pa/event/jMfhk4r5R2y5gggPm8gjtw/stream/cd786c99-79fc-4da6-aa54-546cf10eb71d:DLS/master.m3u8?aid=574462d1cab0f4d50866f001&uid=7yC6wc3bUCKdll0XfC0sgh1JRP4M5TCU&sid=X8TsgXkag96w9PYqNFA6serG1p0bbdXZ&pid=Y45QTUjw9Y8XRaAYwktvs3KnqtOken8Y&pid_dvr=YSi2wagL64qyfwpVw0gtVQreDxDA74ng&ref=https%3A%2F%2Fwww.caracoltv.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=U7ndvtZ5PNG2Hzb5dtvc875y30PynZzcPa0wj5MvWOJJrMwTtP54QKyh4cFGeO3XA0kzQrooe39&adInsertionGoogleStreamId=cd786c99-79fc-4da6-aa54-546cf10eb71d%3ADLS&CMCD=cid%3D%22574463697b9817cf0886fc17%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22Y45QTUjw9Y8XRaAYwktvs3KnqtOken8Y%22%2Csu&es=co-e1-p-e-aa1.cdn.mdstrm.com&ote=1786909953319&ot=13qhMxe1Px1NKdCadUnatQ&proto=https&pz=us 
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="77" group-title="OTT_STREAMSAT",077. kanal d
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="78" group-title="OTT_STREAMSAT",078. canal caso cerrado
@@ -182,9 +182,9 @@ https://jmp2.uk/rok-0de9839c79b758589c580dcdd4b40a8a.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="79" group-title="OTT_STREAMSAT",079. tv azteca internacional
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="canal1.com.co" tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="80" group-title="OTT_STREAMSAT",080. canal 1 col
-#EXTVLCOPT:http-user-agent=app/12.302 (Linux;Android 15) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=canal1.com.co/senal-en-vivo/
-https://cdndirector.dailymotion.com/cdn/live/video/x9nvvkc.m3u8?sec=TguRsai9kI8rTGaZ1QPHCPLNBdptc-Z2qze2HblGZ5C_ju97VQ3QthkyPLC_gp2tIeUIisEKqn0NvIgginNx8rhwlJ8KYUCHdaiax3THCok&dmTs=587361&dmV1st=03587d79-b34e-b7c4-ed48-6ae719079218
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 15; Mobile; rv:154.0) Gecko/154.0 Firefox/154.0
+#EXTVLCOPT:http-referrer=https://canal1.com.co/senal-en-vivo/
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(4P2cw-aKynG-KHqKBg4ix92qFSDku52U2O--7uH8yLFM8l3S3qI8sH9tVIQ9imNPUyfOZEypYBA0iDyzteE8L7nc6MpaUjIeNwrM_-QUgc46j-aEfiXFz9NzeXawq9iz)/cloud/3/x9nvvkc/s/live-480.m3u8#cell=lcf2-eu-north-1a 
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="81" group-title="OTT_STREAMSAT",081. canal 2 misiones
 https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="82" group-title="OTT_STREAMSAT",082. canal 7 neuquén
@@ -654,14 +654,14 @@ https://amg17724-amg17724c1-lg-latam-11388.playouts.now.amagi.tv/ts-us-w2-n1/pla
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W]&AV_HEIGHT=[ADS.H]&AV_APPNAME=[ADS.APP_NAME]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_CCPA=[ADS.US_PRIVACY]&AV_GDPR=[ADS.GDPR]&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_URL=&AV_CONTENT_TITLE=&AV_CONTENT_EPISODE=&AV_CONTENT_SERIES=&AV_CONTENT_SEASON=&AV_CONTENT_KEYWORDS=&AV_CONTENT_NETWORK=&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_LENGTH=&AV_VAUTH=[ADS.VAUTH]&AV_DNT=[ADS.DNT]&Content_Id=[ADS.ADS_CONTENTID]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_OSVERS=[ADS.DEVICE_OSV]&AVS_SSAIID=6835a5171bcd3217190b928c&AV_CONTENT_LANGUAGE=sp&AV_CONTENT_GENRE=entertainment&AV_CONTENT_CAT=IAB9&AV_CONTENT_RATING=TP&AV_CLIENT_SECTION=RTVE_clan&content_channel_name=Clan&content_livestream=1&AV_CONTENT_PROVIDER=RTVE&ads.vidaa_ads_param=1190602996
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="307" group-title="OTT_STREAMSAT",307. 13 Kids
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="308" group-title="OTT_STREAMSAT",308. Naruto (pluto TV) 
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="308" group-title="OTT_STREAMSAT",308. Canal Naruto (pluto TV) 
 https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="309" group-title="OTT_STREAMSAT",309. xtrema cartoons
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="310" group-title="OTT_STREAMSAT",310. moji tv
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992452&ads.xumo_streamId=99992452&ads.channelId=99992452&ads.csid=lgchannels_es_odmediamexico_ssai&ads.channelName=lospitufos_es&ads.xumo_contentName=ODMediaMexico&ads.xumo_contentId=3194&ads.xumo_providerName=ODMediaMexico&ads.xumo_providerId=3194&ads.content_category=IAB6&ads.content_genre=kids&ads.content_language=es&ads.content_rating=tv-g&ads.coppa=1&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="311" group-title="OTT_STREAMSAT",311. adult swim
-http://45.5.119.43:4000/play/a051/index.m3u8 
+http://201.190.41.246:9250/play/a015/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="312" group-title="OTT_STREAMSAT",312. anime visión
 https://jmp2.uk/stvp-ES300029LP
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="313" group-title="OTT_STREAMSAT",313. anime visión classics
@@ -673,7 +673,7 @@ http://181.78.12.119:16123/play/ch02/index.m3u8
 #EXTVLCOPT:http-referrer=www.toongoggles.com/linear/pitufo-tv
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=11855&avod=1&coppa=1&is_lat=1&dnt=1&td=6&us_privacy=1NNN&delivery_type=fast&did=&ifa_type=sessionid&app_bundle=&app_store_url=&app_domain=toongoggles.com&app_name=Toon%20Goggles&custom_targeting=web&delivery_partner=internal&custom_4=internal&player_height=720&player_width=1280&content_channel=ToonGoggles&content_network=ToonGoggles&content_language=en&content_cat=IAB1-5%2CIAB1-7&partner_domain=toongoggles.com&content_dist_name=internal&device_make=&device_model=&device_os=web&device_language=en&preferred_language=EN&gdpr=0&custom_12=0&custom_15=en&custom_16=EN&custom_17=es&country=co&country_region=santander%20department&postal_code=680001&site_page=https%253A%252F%252Fwww.toongoggles.com%252Flinear%252Fpitufo-tv&sdid=3ef00abe-b8f0-6583-49ef-82961e8d32b9&preroll_duration=30&preroll=1&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="316" group-title="OTT_STREAMSAT",316. disney 
-http://190.90.71.103:8000/play/a01t/index.m3u8
+http://181.78.0.107:8006/play/a07n/index.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="317" group-title="OTT_STREAMSAT",317. disney jr
 http://45.190.187.183:8080/play/a1kr
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="318" group-title="OTT_STREAMSAT",318. nickelodeon
@@ -689,7 +689,7 @@ https://jmp2.uk/stvp-ESBD3200002V5
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="323" group-title="OTT_STREAMSAT",323. canal caillou
 https://jmp2.uk/stvp-ES4800002OZ
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="324" group-title="OTT_STREAMSAT",324. baby tv
-http://190.90.71.103:8000/play/a07v/index.m3u8
+http://alltvmx.com/live/Maria2402marq/FDEYQhzmSq/11917.ts
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="325" group-title="OTT_STREAMSAT",325. chinola tv
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8 
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="316" group-title="OTT_STREAMSAT",326. cartoon network 
@@ -733,9 +733,9 @@ http://181.224.255.210:8001/play/a0oj/index.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="344" group-title="OTT_STREAMSAT",344. espn 3
 http://45.171.64.30:8800/play/a025
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="345" group-title="OTT_STREAMSAT",345. espn 4
-http://190.90.71.103:8000/play/a01k/index.m3u8
+http://tutv.fun/live/XochiltTovar/PXJMeN34Vm/591990.ts
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="346" group-title="OTT_STREAMSAT",346. espn 5
-http://190.90.71.103:8000/play/a0aw/index.m3u8
+http://thenewxtreme2025.xyz/live/51952716251/5195271625143/195496.ts
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="347" group-title="OTT_STREAMSAT",347. espn deportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
 https://domapp2.site:2087/live/abc991435082/991435082abc/591971.m3u8
@@ -755,7 +755,7 @@ https://jmp2.uk/stvp-ESBD2900001P9
 https://aym-as.otteravision.com/aym/as/as_1080p.m3u8 
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="355" group-title="OTT_STREAMSAT",355. directv sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://190.61.41.181:8000/play/a0r5/index.m3u8
+http://tutv.fun/live/XochiltTovar/PXJMeN34Vm/69567.ts
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="356" group-title="OTT_STREAMSAT",356. motovision 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=757&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=tzFRBf5UEBHD_vbznsUx&custom_7=60da3a5c0d1cc1002c38370e
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="357" group-title="OTT_STREAMSAT",357. tv cuatro deportes
@@ -789,12 +789,12 @@ http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog
 http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="370" group-title="OTT_STREAMSAT_عربي",370. ch4teen kids
 http://ch14.tv/live/ch4teenkids/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="371" group-title="OTT_STREAMSAT_عربي",371. roya kids
-https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="371" group-title="OTT_STREAMSAT_عربي",371. Afarin Baxcha
+https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="372" group-title="OTT_STREAMSAT_عربي",372. mbc 3
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="373" group-title="OTT_STREAMSAT_عربي",373. spacetoon
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="373" group-title="OTT_STREAMSAT_عربي",373. Taha TV
+https://stream.starmenajo.com/hls/app/live/ts:fhd.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="374" group-title="OTT_STREAMSAT_عربي",374. maraya kids
 https://live.kwikmotion.com/smckidslive/tjkids1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="375" group-title="OTT_STREAMSAT_عربي",375. atfal & mawaheb tv
@@ -988,8 +988,8 @@ https://streamer3.premio.link/alqamar/playlist.m3u8
 http://185.9.2.18/chid_247/index.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="467" group-title="OTT_STREAMSAT_عربي",467. syrian satellite channel
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="468" group-title="OTT_STREAMSAT_عربي",468. roya kitchen
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="468" group-title="OTT_STREAMSAT_عربي",468. Maan
+https://htvmada.mada.ps:4443/maannews/index.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="469" group-title="OTT_STREAMSAT_عربي",469. al masirah mubacher
 https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="470" group-title="OTT_STREAMSAT_عربي",470. sbc
@@ -1018,10 +1018,10 @@ https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="482" group-title="OTT_STREAMSAT_عربي",482. Jordan drama
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="483" group-title="OTT_STREAMSAT_عربي",483. roya drama
-https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="484" group-title="OTT_STREAMSAT_عربي",484. roya comedy
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="483" group-title="OTT_STREAMSAT_عربي",483. Jordan Tourism
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Tourism/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="484" group-title="OTT_STREAMSAT_عربي",484. CBC
+https://flu.systemnet.tv/CBC/index.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="485" group-title="OTT_STREAMSAT_عربي",485. Ajyal TV
 http://htvmada.mada.ps:8888/ajyal/index.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="486" group-title="OTT_STREAMSAT_عربي",486. Al Najah News
@@ -1064,3 +1064,29 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="505" group-title="OTT_STREAMSAT_عربي",505. jordan sport
 http://93.184.10.248/JordanSport/index.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="506" group-title="OTT_STREAMSAT_عربي",506. Yemen Today TV
+https://video.yementdy.tv/hls/yementoday.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="507" group-title="OTT_STREAMSAT_عربي",507. Al-Sahat TV
+https://assahat.b-cdn.net/Assahat/assahatobs/index.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="508" group-title="OTT_STREAMSAT_عربي",508. IRIB1
+https://ncdn.telewebion.ir/tv1/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="509" group-title="OTT_STREAMSAT_عربي",509. IRIB2
+https://ncdn.telewebion.ir/tv2/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="510" group-title="OTT_STREAMSAT_عربي",510. Ch_510
+https://ncdn.telewebion.ir/tehran/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="511" group-title="OTT_STREAMSAT_عربي",511. IRINN
+https://ncdn.telewebion.ir/irinn/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="512" group-title="OTT_STREAMSAT_عربي",512. IRINN2
+https://ncdn.telewebion.ir/irinn2/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="513" group-title="OTT_STREAMSAT_عربي",513. Al Wilayah
+https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="514" group-title="OTT_STREAMSAT_عربي",514. RasoulallahTv
+https://avr.host247.net/live/rasoulallahtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="515" group-title="OTT_STREAMSAT_عربي",515. Ch_515
+https://ncdn.telewebion.ir/quran/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="516" group-title="OTT_STREAMSAT_عربي",516. Ch_516
+https://ncdn.telewebion.ir/dena/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="517" group-title="OTT_STREAMSAT_عربي",517. Eshragh
+https://ncdn.telewebion.ir/eshragh/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="518" group-title="OTT_STREAMSAT_عربي",518. Alborz
+https://ncdn.telewebion.ir/alborz/live/playlist.m3u8
