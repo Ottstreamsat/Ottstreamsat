@@ -24,8 +24,9 @@ https://server80.servistreaming.com:3884/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="10" group-title="OTT_STREAMSAT",010. La reina (audio)
 #EXTVLCOPT:http-user-agent=app/12.302 (Linux;Android 15) ExoPlayerLib/2.19.1
 https://playerservices.streamtheworld.com/api/livestream-redirect/RNA_BARRANQUILLAAAC.aac?dist=oro_web
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="11" group-title="OTT_STREAMSAT",011. Música y folklor (audio)
-#EXTVLCOPT:http-user-agent=app/12.302 (Linux;Android 15) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="11" group-title="OTT_STREAMSAT",011. La Estacion Vallenata FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 15; Mobile; rv:154.0) Gecko/154.0 Firefox/154.0
+https://stream-289.surfernetwork.com/ubk0x8k2znhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1YmsweDhrMnpuaHZ2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiIwZWRPRnpvRFJyeU1uN3RnYmM1eFJRIiwiaWF0IjoxNzg2ODQzMDc1LCJleHAiOjE3ODY4NDMxMzV9.pa1ds3wAaK0JwKBkqtGX9Cq-rMHs68FVWiO319DOxTY 
 https://onlineradiobox.com/co/Barrancabermeja?cs=co.musicayfolklor&played=1
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="12" group-title="OTT_STREAMSAT",012. 123 vallenato (áudio)
 #EXTVLCOPT:http-user-agent=app/12.302 (Linux;Android 15) ExoPlayerLib/2.19.1
@@ -1062,30 +1063,4 @@ http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="504" group-title="OTT_STREAMSAT_عربي",504. bahrain sports 2
 http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="505" group-title="OTT_STREAMSAT_عربي",505. jordan sport
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="506" group-title="OTT_STREAMSAT_عربي",506. Yemen Today TV
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="507" group-title="OTT_STREAMSAT_عربي",507. Al-Sahat TV
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="508" group-title="OTT_STREAMSAT_عربي",508. IRIB1
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="509" group-title="OTT_STREAMSAT_عربي",509. IRIB2
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="510" group-title="OTT_STREAMSAT_عربي",510. Ch_510
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="511" group-title="OTT_STREAMSAT_عربي",511. IRINN
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="512" group-title="OTT_STREAMSAT_عربي",512. IRINN2
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="513" group-title="OTT_STREAMSAT_عربي",513. Al Wilayah
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="514" group-title="OTT_STREAMSAT_عربي",514. RasoulallahTv
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="515" group-title="OTT_STREAMSAT_عربي",515. Ch_515
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="516" group-title="OTT_STREAMSAT_عربي",516. Ch_516
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="517" group-title="OTT_STREAMSAT_عربي",517. Eshragh
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="518" group-title="OTT_STREAMSAT_عربي",518. Alborz
 http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8

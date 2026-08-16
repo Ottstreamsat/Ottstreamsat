@@ -24,9 +24,9 @@ https://server80.servistreaming.com:3884/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="10" group-title="OTT_STREAMSAT",010. La reina (audio)
 #EXTVLCOPT:http-user-agent=app/12.302 (Linux;Android 15) ExoPlayerLib/2.19.1
 https://playerservices.streamtheworld.com/api/livestream-redirect/RNA_BARRANQUILLAAAC.aac?dist=oro_web
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="11" group-title="OTT_STREAMSAT",011. Música y folklor (audio)
-#EXTVLCOPT:http-user-agent=app/12.302 (Linux;Android 15) ExoPlayerLib/2.19.1
-https://onlineradiobox.com/co/Barrancabermeja?cs=co.musicayfolklor&played=1
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="11" group-title="OTT_STREAMSAT",011. La Estacion Vallenata FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 15; Mobile; rv:154.0) Gecko/154.0 Firefox/154.0
+https://stream-289.surfernetwork.com/ubk0x8k2znhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1YmsweDhrMnpuaHZ2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiIwZWRPRnpvRFJyeU1uN3RnYmM1eFJRIiwiaWF0IjoxNzg2ODQzMDc1LCJleHAiOjE3ODY4NDMxMzV9.pa1ds3wAaK0JwKBkqtGX9Cq-rMHs68FVWiO319DOxTY 
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="12" group-title="OTT_STREAMSAT",012. 123 vallenato (áudio)
 #EXTVLCOPT:http-user-agent=app/12.302 (Linux;Android 15) ExoPlayerLib/2.19.1
 https://radiolatina.info:10903/;
@@ -1064,29 +1064,3 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="505" group-title="OTT_STREAMSAT_عربي",505. jordan sport
 http://93.184.10.248/JordanSport/index.m3u8
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="506" group-title="OTT_STREAMSAT_عربي",506. Yemen Today TV
-https://video.yementdy.tv/hls/yementoday.m3u8
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="507" group-title="OTT_STREAMSAT_عربي",507. Al-Sahat TV
-https://assahat.b-cdn.net/Assahat/assahatobs/index.m3u8
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="508" group-title="OTT_STREAMSAT_عربي",508. IRIB1
-https://ncdn.telewebion.ir/tv1/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="509" group-title="OTT_STREAMSAT_عربي",509. IRIB2
-https://ncdn.telewebion.ir/tv2/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="510" group-title="OTT_STREAMSAT_عربي",510. Ch_510
-https://ncdn.telewebion.ir/tehran/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="511" group-title="OTT_STREAMSAT_عربي",511. IRINN
-https://ncdn.telewebion.ir/irinn/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="512" group-title="OTT_STREAMSAT_عربي",512. IRINN2
-https://ncdn.telewebion.ir/irinn2/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="513" group-title="OTT_STREAMSAT_عربي",513. Al Wilayah
-https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="514" group-title="OTT_STREAMSAT_عربي",514. RasoulallahTv
-https://avr.host247.net/live/rasoulallahtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="515" group-title="OTT_STREAMSAT_عربي",515. Ch_515
-https://ncdn.telewebion.ir/quran/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="516" group-title="OTT_STREAMSAT_عربي",516. Ch_516
-https://ncdn.telewebion.ir/dena/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="517" group-title="OTT_STREAMSAT_عربي",517. Eshragh
-https://ncdn.telewebion.ir/eshragh/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="518" group-title="OTT_STREAMSAT_عربي",518. Alborz
-https://ncdn.telewebion.ir/alborz/live/playlist.m3u8
