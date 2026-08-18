@@ -3,8 +3,8 @@
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16564&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="2" group-title="OTT_STREAMSAT",002. la kalle
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 15; Mobile; rv:154.0) Gecko/154.0 Firefox/154.0
-#EXTVLCOPT:http-referrer=https://lakalle.bluradio.com/senal-en-vivo-la-kalle
-https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8?uid=2xgf7QbieR6loFRVglAWxYYnD0KBrZeY&sid=E5pKWLUWojhTupCSI9R91wsg4coKCdsE&pid=0DpHtrrSfbXMAZhDYDJimfNG5GeJb9Dy&pid_dvr=i3s0mzxwK0BZAoCQPDUkhIA4b6K4wodz&an=screen&at=web-app&av=v7.0.90&ref=https%3A%2F%2Flakalle.bluradio.com%2F&res=320x220&without_cookies=false&listenerid=&dnt=true&adInsertionGoogleStreamId=80d93e9c-4a31-4d85-8f6f-9aeb9719ee11:CHS&CMCD=cid%3D%2258d191f07290fbb058025843%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%220DpHtrrSfbXMAZhDYDJimfNG5GeJb9Dy%22%2Csu
+#EXTVLCOPT:http-referrer=https://mdstrm.com/live-stream/58d191f07290fbb058025843
+https://co-e1-p-e-mf2.cdn.mdstrm.com/live-stream-gdai/58d191f07290fbb058025843/linear/hls/pa/event/RRmIwzY8SeypJ5-icasjpw/stream/116cb384-bd98-4552-ac0c-64aafe1eae23:MRN2/variant/f9dd50c0106a85f0688fafd537ea58c7/bandwidth/2103200.m3u8?aid=589b127df30bc52f54100dcb&uid=I0r7NPQChaa86JMX2m9xzJsVgqmhoAaA&sid=vJiBvgpno410o4QkwJy7wcLtAn34sgQI&pid=ZXewHeypt8wzCnJkCq3biHVRtaJ3LDKI&pid_dvr=U097i9CiHM438ySQiZtqRCeGHWCVORZv&ref=https%3A%2F%2Flakalle.bluradio.com%2F&without_cookies=false&listenerid=&dnt=true&adInsertionGoogleStreamId=116cb384-bd98-4552-ac0c-64aafe1eae23%3AMRN2&CMCD=cid%3D%2258d191f07290fbb058025843%22%2Cmtp%3D15600%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22ZXewHeypt8wzCnJkCq3biHVRtaJ3LDKI%22&es=co-e1-p-e-mf2.cdn.mdstrm.com&ote=1787102571204&ot=ILvKZP43YB5lLFsdQJ3jkA&proto=https&pz=us&access_token=oF2JCmCl94bzYTJXHpjSc0WFnhVOl6L1EI33wOQngvL0E1E2JSVNFuVDUPAdhBpdHvF45y92tkm
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="3" group-title="OTT_STREAMSAT",003. xite siempre latino
 https://d1xc25jm9e0l4b.cloudfront.net/XITE_Siempre_Latino.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="4" group-title="OTT_STREAMSAT",004. htv
@@ -40,9 +40,9 @@ https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="16" group-title="OTT_STREAMSAT",016. Radio Nostalgia Medellín (audio)
 #EXTVLCOPT:http-user-agent=app/12.302 (Linux;Android 15) ExoPlayerLib/2.19.1
 https://stream.zeno.fm/gunacxhg368uv?triton-uid=cookie%3A664a1dee-e8f6-4d9b-aa50-93628ebc5ebb&aw_0_req_lsid=456395d17e5090086fc06a10472d783c
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="17" group-title="OTT_STREAMSAT",017. nostalgia am (áudio) 
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="17" group-title="OTT_STREAMSAT",017. Bésame (audio) 
 #EXTVLCOPT:http-user-agent=app/12.302 (Linux;Android 15) ExoPlayerLib/2.19.1
-https://radios.indusaba.com/hls/nostalgia_am/live.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_BUCARAMANGAAAC_SC?csegid=2000
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="18" group-title="OTT_STREAMSAT",018. La voz de la Nostalgia (audio)
 #EXTVLCOPT:http-user-agent=app/12.302 (Linux;Android 15) ExoPlayerLib/2.19.1
 https://play8.tikast.com/proxy/lavozdelanostalgia?mp=/stream&1786740819973
@@ -85,8 +85,8 @@ https://amg01131-tracetv-amg01131c4-rlaxx-us-6583.playouts.now.amagi.tv/playlist
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8#t=0.1
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="36" group-title="OTT_STREAMSAT",036. sol música
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="37" group-title="OTT_STREAMSAT",037. Verbena TV
-https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="37" group-title="OTT_STREAMSAT",037. Olímpica fm (audio)
+https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_CALIAAC_SC?dist=oro_web
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="38" group-title="OTT_STREAMSAT",038. Rockola televisión
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/S9K831QV8TO3291HQ8JS/hls3/now,-1m/m.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="39" group-title="OTT_STREAMSAT",039. vevo
@@ -173,8 +173,8 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:CHANNEL_2/playlist.m3u8
 https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="76" group-title="OTT_STREAMSAT",076. caracol tv (canal regresamos)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 15; Mobile; rv:154.0) Gecko/154.0 Firefox/154.0
-#EXTVLCOPT:http-referrer=https://www.caracoltv.com/senal-vivo
-https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8?uid=2xgf7QbieR6loFRVglAWxYYnD0KBrZeY&sid=E5pKWLUWojhTupCSI9R91wsg4coKCdsE&pid=zCApmzfHrusVgpbVgftjohDXxm9Swl9I&pid_dvr=UrRcaWskOtuLu8g1T1OiGgiH9uxupwbQ&an=screen&at=web-app&av=v7.0.90&ref=https%3A%2F%2Fwww.caracoltv.com%2F&res=340x191&without_cookies=false&listenerid=&dnt=true&access_token=PjDRUUCBVIk6zBBGawT7HvEWSwXXrFwXkO7tuyGyt7DC0OuDvRwG5oREPFe7GEp10UV8IdErkCE&adInsertionGoogleStreamId=c32492f6-70b5-4a91-990b-dcd4e455b4de:CHS&CMCD=cid%3D%22574463697b9817cf0886fc17%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22zCApmzfHrusVgpbVgftjohDXxm9Swl9I%22%2Csu
+#EXTVLCOPT:http-referrer=https://mdstrm.com/live-stream/574463697b9817cf0886fc17?jsapi=true&autoplay=true&access_token=aWRrFOEZ0zzAJEdDCb82gP9GJcyw3Ws5zxzPAt8dlTapYNXs7mm3iur8briM6fvtYsRBc2mlVMU&controls_bar[showFullscreen]=true
+https://co-e1-p-e-mf2.cdn.mdstrm.com/live-stream-gdai/574463697b9817cf0886fc17/linear/hls/pa/event/jMfhk4r5R2y5gggPm8gjtw/stream/02b1fb3d-269c-49ce-828b-d97c9d771017:ATL/variant/48215209b486b06c621f95db82dea5fe/bandwidth/1927200.m3u8?aid=574462d1cab0f4d50866f001&uid=I0r7NPQChaa86JMX2m9xzJsVgqmhoAaA&sid=vJiBvgpno410o4QkwJy7wcLtAn34sgQI&pid=A6CdVUPWcFOUJRNSaiSDn7A1nohKhTfD&pid_dvr=J5ySSM49oposagFdAoR55IyhJCbB606k&ref=https%3A%2F%2Fwww.caracoltv.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=aWRrFOEZ0zzAJEdDCb82gP9GJcyw3Ws5zxzPAt8dlTapYNXs7mm3iur8briM6fvtYsRBc2mlVMU&adInsertionGoogleStreamId=02b1fb3d-269c-49ce-828b-d97c9d771017%3AATL&CMCD=cid%3D%22574463697b9817cf0886fc17%22%2Cmtp%3D34500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22A6CdVUPWcFOUJRNSaiSDn7A1nohKhTfD%22&es=co-e1-p-e-mf2.cdn.mdstrm.com&ote=1787103456795&ot=Wvudnf5Qt3oZG8qA3Wsr9A&proto=https&pz=us'
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="77" group-title="OTT_STREAMSAT",077. kanal d
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="78" group-title="OTT_STREAMSAT",078. canal caso cerrado
@@ -508,11 +508,11 @@ https://jmp2.uk/rok-b015fcbafb496320954672321e746f8a.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="234" group-title="OTT_STREAMSAT",234. space
 http://181.118.153.15:8000/play/sf34/index.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="235" group-title="OTT_STREAMSAT",235. dhe
-http://209.14.119.30:8001/play/a0h1/index.m3u8
+http://205.235.6.29:8000/play/a117/index.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="236" group-title="OTT_STREAMSAT",236. tnt
 http://181.118.153.15:8000/play/wr07/index.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="237" group-title="OTT_STREAMSAT",237. de pelicula
-http://209.14.119.30:8001/play/a0ok/index.m3u8
+http://181.119.93.83:8000/play/a0zh
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="238" group-title="OTT_STREAMSAT",238. amc
 http://190.123.76.22:8002/play/a04r/index.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="239" group-title="OTT_STREAMSAT",239. amc español
@@ -763,7 +763,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=757&livestream=1&live=1&ap
 https://5ca3e84a76d30.streamlock.net/tv43gto/smil:tv43gto.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="358" group-title="OTT_STREAMSAT",358. euro sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://vpjertrcww.top:8080/VIP0199169433707119/1ec6e361fdcd/281
+http://xlion.net:8080/80986533788/5662111245/441731
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="359" group-title="OTT_STREAMSAT",359. top barca
 https://amg17560-amg17560c2-freelivesports-emea-10992.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17560-fcbarcelona-topbarcaspanish-freelivesportsemea/playlist.m3u8?channel_name=Top%20Barca%20Spanish&content_genre=Football%2CSport&ic=IAB17%2CIAB17-12&rating=G&language=ES&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="360" group-title="OTT_STREAMSAT",360. tyc sports fan 
