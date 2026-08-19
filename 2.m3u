@@ -1,51 +1,50 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="1" group-title="OTT_STREAMSAT",001. #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="1" group-title="OTT_STREAMSAT",001. Free TV banda 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=16564&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="2" group-title="OTT_STREAMSAT",002. la kalle
-https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="3" group-title="OTT_STREAMSAT",003. xite siempre latino
-https://d1xc25jm9e0l4b.cloudfront.net/XITE_Siempre_Latino.m3u8
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="4" group-title="OTT_STREAMSAT",004. htv
-http://186.33.40.97:8789/play/94?hls
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="5" group-title="OTT_STREAMSAT",005. exa tv
-http://187.245.231.226:8000/play/a0o8/index.m3u8
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="6" group-title="OTT_STREAMSAT",006. hei
-https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="7" group-title="OTT_STREAMSAT",007. rumba tv
-http://38.44.109.41:8003/play/a022/index.m3u8
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="8" group-title="OTT_STREAMSAT",008. concert channel
-http://45.5.116.228:8000/play/a02r/index.m3u8
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="9" group-title="OTT_STREAMSAT",009. vallenato Internacional
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tropicalmusictv.com/
-https://server80.servistreaming.com:3884/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="10" group-title="OTT_STREAMSAT",010. La reina (audio)
-#EXTVLCOPT:http-user-agent=app/12.302 (Linux;Android 15) ExoPlayerLib/2.19.1
-https://playerservices.streamtheworld.com/api/livestream-redirect/RNA_BARRANQUILLAAAC.aac?dist=oro_web
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="11" group-title="OTT_STREAMSAT",011. La Estacion Vallenata FM
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="1" group-title="OTT_STREAMSAT",001. 123 vallenato (audio)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 15; Mobile; rv:154.0) Gecko/154.0 Firefox/154.0
-https://stream-289.surfernetwork.com/ubk0x8k2znhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1YmsweDhrMnpuaHZ2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiIwZWRPRnpvRFJyeU1uN3RnYmM1eFJRIiwiaWF0IjoxNzg2ODQzMDc1LCJleHAiOjE3ODY4NDMxMzV9.pa1ds3wAaK0JwKBkqtGX9Cq-rMHs68FVWiO319DOxTY 
-https://onlineradiobox.com/co/Barrancabermeja?cs=co.musicayfolklor&played=1
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="12" group-title="OTT_STREAMSAT",012. 123 vallenato (áudio)
-#EXTVLCOPT:http-user-agent=app/12.302 (Linux;Android 15) ExoPlayerLib/2.19.1
 https://radiolatina.info:10903/;
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="13" group-title="OTT_STREAMSAT",013. Paisa Estéreo (audio)
-#EXTVLCOPT:http-user-agent=app/12.302 (Linux;Android 15) ExoPlayerLib/2.19.1
-https://radiolatina.info:10902/;
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="2" group-title="OTT_STREAMSAT",002. La reina fm (audio)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 15; Mobile; rv:154.0) Gecko/154.0 Firefox/154.0
+https://27383.live.streamtheworld.com:443/RNA_BARRANQUILLAAAC.aac?dist=oro_web
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="3" group-title="OTT_STREAMSAT",003. Bakanisima Stereo (audio)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 15; Mobile; rv:154.0) Gecko/154.0 Firefox/154.0
+https://play10.tikast.com:20022/stream
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="4" group-title="OTT_STREAMSAT",004. Radio uno (audio)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 15; Mobile; rv:154.0) Gecko/154.0 Firefox/154.0
+https://mdstrm.com/audio/632c9bbcaa9ace684913b81b/live.m3u8?_=1787168649539&dnt=true&player=6865fe1cb8f25d7257c85a93&uid=v3sjNgX9jbamUbhm9qz3hupWqHeWlfSM&sid=BSF3uJwkjQql0G8RJUqyTHhxOclmxJUt&pid=GNVlUn4WWK3oCooDKZbDL2oE8qGFSZHV&an=player-audio-ott-rcn&at=web-app&av=v1.0.98&sc=0&ref=www.rcnradio.com&res=424x948&ext_pb=0&CMCD=cid%3D%22632c9bbcaa9ace684913b81b%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22GNVlUn4WWK3oCooDKZbDL2oE8qGFSZHV%22%2Csu
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="5" group-title="OTT_STREAMSAT",005. 1220 vallenato puro (audio)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 15; Mobile; rv:154.0) Gecko/154.0 Firefox/154.0
+https://streaming.radiosenlinea.com.ar:10388/stream
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="6" group-title="OTT_STREAMSAT",006. La caqueteña (audio)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 15; Mobile; rv:154.0) Gecko/154.0 Firefox/154.0
+https://lacaquetena.net/api/audio/?id=6&t=1787169257702
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="7" group-title="OTT_STREAMSAT",007. Radio planeta vallenato (audio)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 15; Mobile; rv:154.0) Gecko/154.0 Firefox/154.0
+https://radio25.virtualtronics.com:20056/stream/1/
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="8" group-title="OTT_STREAMSAT",008. Yariguies Stereo (audio)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 15; Mobile; rv:154.0) Gecko/154.0 Firefox/154.0
+https://estructuraweb.com.co:9339/stream
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="9" group-title="OTT_STREAMSAT",009. Baladas Clásicas y Viejitas (audio)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 15; Mobile; rv:154.0) Gecko/154.0 Firefox/154.0
+https://stream.zeno.fm/dossnihtsrytv
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="10" group-title="OTT_STREAMSAT",010. Free TV banda 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16564&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="11" group-title="OTT_STREAMSAT",011. concert channel
+http://45.5.116.228:8000/play/a02r/index.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="12" group-title="OTT_STREAMSAT",012. la kalle
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 15; Mobile; rv:154.0) Gecko/154.0 Firefox/154.0
+https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="13" group-title="OTT_STREAMSAT",013. xite siempre latino
+https://d1xc25jm9e0l4b.cloudfront.net/XITE_Siempre_Latino.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="14" group-title="OTT_STREAMSAT",014. Voice over
 https://cloudvideo.servers10.com:8081/8198/tracks-v1a1/rewind-3600.m3u8
-http://181.78.0.156:8000/play/a03i/index.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="15" group-title="OTT_STREAMSAT",015. soy plancha tv
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="16" group-title="OTT_STREAMSAT",016. Radio Nostalgia Medellín (audio)
-#EXTVLCOPT:http-user-agent=app/12.302 (Linux;Android 15) ExoPlayerLib/2.19.1
-https://stream.zeno.fm/gunacxhg368uv?triton-uid=cookie%3A664a1dee-e8f6-4d9b-aa50-93628ebc5ebb&aw_0_req_lsid=456395d17e5090086fc06a10472d783c
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="17" group-title="OTT_STREAMSAT",017. Bésame (audio) 
-#EXTVLCOPT:http-user-agent=app/12.302 (Linux;Android 15) ExoPlayerLib/2.19.1
-https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_BUCARAMANGAAAC_SC?csegid=2000
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="18" group-title="OTT_STREAMSAT",018. La voz de la Nostalgia (audio)
-#EXTVLCOPT:http-user-agent=app/12.302 (Linux;Android 15) ExoPlayerLib/2.19.1
-https://play8.tikast.com/proxy/lavozdelanostalgia?mp=/stream&1786740819973
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="16" group-title="OTT_STREAMSAT",016. htv
+http://186.33.40.97:8789/play/94?hls
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="17" group-title="OTT_STREAMSAT",017. exa tv
+http://187.245.231.226:8000/play/a0o8/index.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="18" group-title="OTT_STREAMSAT",018. hei
+https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="19" group-title="OTT_STREAMSAT",019. corazon tv
 http://181.118.153.15:8000/play/qq90/index.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="20" group-title="OTT_STREAMSAT",020. vm latino
@@ -85,8 +84,8 @@ https://amg01131-tracetv-amg01131c4-rlaxx-us-6583.playouts.now.amagi.tv/playlist
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8#t=0.1
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="36" group-title="OTT_STREAMSAT",036. sol música
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="37" group-title="OTT_STREAMSAT",037. Olímpica fm (audio)
-https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_CALIAAC_SC?dist=oro_web
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="37" group-title="OTT_STREAMSAT",037. rumba tv
+http://38.44.109.41:8003/play/a022/index.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="38" group-title="OTT_STREAMSAT",038. Rockola televisión
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/S9K831QV8TO3291HQ8JS/hls3/now,-1m/m.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="39" group-title="OTT_STREAMSAT",039. vevo
@@ -97,7 +96,7 @@ https://s1.tvdatta.com:3972/live/88stereolive.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="41" group-title="OTT_STREAMSAT",041. bta tv
 https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="42" group-title="OTT_STREAMSAT",042. Box playlist
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; SM-A032M Build/RP1A.201005.001) Android/SM-A032M DistroTV/1.74
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/BKFNLVLBL20NVRK6FYE0/hls3/now,-1m/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="43" group-title="OTT_STREAMSAT",043. Salsa gorda televisión
 https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8
