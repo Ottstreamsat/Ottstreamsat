@@ -125,8 +125,9 @@ https://s.emisoras.tv:8081/penielbibliaabierta/index.m3u8
 https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="54" group-title="OTT_STREAMSAT",054. televida
 https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://000.jpg" tvg-chno="55" group-title="000",055.
-http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="55" group-title="OTT_STREAMSAT",055. Cmb televisión
+#EXTVLCOPT:http-referrer=cmbcolombia.tv/senal-en-vivo
+https://hls-m9hrfayq-livepush.akamaized.net/live_cdn/nsxlDfnVmUyEy/eme2QCj5oX02cY/index.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="56" group-title="OTT_STREAMSAT",056. abn avivamiento
 https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="57" group-title="OTT_STREAMSAT",057. aliento visión
@@ -282,8 +283,7 @@ http://45.167.1.136:8000/play/a02i
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="129" group-title="OTT_STREAMSAT",129. canal e
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="130" group-title="OTT_STREAMSAT",130. comercio tv
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.4 (Linux;Android 15; 15zss0o)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=1787158986149&network_id=16960&live=1&avod=1&hls_marker=1&ssai_enabled=1&gdpr=0&ifa_type=sessionid&site_page=https%3A%2F%2Fcomercio.tv%2Fstreaming-tv%2F&site_name=ComercioTV&coppa=0&us_privacy=1---
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 15; Mobile; rv:154.0) Gecko/154.0 Firefox/154.0
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="131" group-title="OTT_STREAMSAT",131. negocios tv
 https://negociostv-negociostv-rlaxx.amagi.tv/hls/amagi_hls_data_negociost-negociostv-rlaxxtv/CDN/playlist.m3u8?tag_id=104070&app_name=Whale+TV%2B&app_store=Browser&ic=IAB1&url=&wtv_channel_id=0253&content_producer_name=AmagiConnect_NEGOCIOSTV_NEGOCIOSTV&content_categories=IAB12%2CIAB12-1%2CIAB13-3%2CIAB3&content_custom_1_param=Amagi&content_custom_2_param=F%2CM&content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49&tv_language=&device_make=&tv_vendor=&brand_name=&device_model=&tv_model=&gdpr=1&gdpr_consent=&did=&ua=&ip=&dnt=&lmt=&coppa=0&us_privacy=1YNN&min_dur=5&max_dur=30&cb=&sid=&h=&w=&content_livestream=1&placement=1&ap=1&mute=0&skip=0&ads.gdpr=0
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="132" group-title="OTT_STREAMSAT",132. pura noticia
@@ -510,7 +510,7 @@ http://205.235.6.29:8000/play/a117/index.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="236" group-title="OTT_STREAMSAT",236. tnt
 http://181.118.153.15:8000/play/wr07/index.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="237" group-title="OTT_STREAMSAT",237. de pelicula
-http://181.119.93.83:8000/play/a0zh
+http://181.119.93.83:8000/play/a0sx?hls
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="238" group-title="OTT_STREAMSAT",238. amc
 http://190.123.76.22:8002/play/a04r/index.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="239" group-title="OTT_STREAMSAT",239. amc español
