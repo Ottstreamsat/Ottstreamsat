@@ -528,7 +528,7 @@ https://tv.arkeo.cl:1936/raicesarabestv/raicesarabestv/playlist.m3u8?PlaylistM3U
 #EXTINF:-1 tvg-logo="0000" group-title="00ES",166. rtc television
 https://scl.edge.grupoz.cl/rtcstreaming/live/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="0000"  group-title="00ES",167. red+ tv
+#EXTINF:-1 tvg-logo="0000" group-title="00ES",167. red+ tv
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
 
 #EXTINF:-1 tvg-logo="0000" group-title="00ES",168. canal 26
