@@ -91,8 +91,8 @@ https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/video.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",027. pasion ranchera
 https://tv.arkeo.cl:19360/8068/8068.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",028. tierramia tv
-https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8#t=0.1?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",028. TELE NOSTALGIA
+http://181.118.153.15:8000/play/mb00/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",029. ch_29
 https://sistemastr.tropicalmoonmedia.com:443/live/219197C7B6902B1A4D33D19600E9BE7A/4.m3u8?PlaylistM3UCL
@@ -316,8 +316,8 @@ https://api-ott-azteca-azt.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=1
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",097. Ecuavisa
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",098. z mundo
-https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67a2f0650777adc6ba0b9d71&AV_CHANNEL_NAME=ZEE-MUNDO&AV_CONTENT_LANGUAGE=es&AV_CONTENT_RATING=TV-PG&cb=MX_CACHEBUSTER&AV_APPPKGNAME=MX_APP_BUNDLE&AV_APPNAME=MX_APP_NAME&AV_APPSTOREURL=MX_APP_STORE_URL&AV_WIDTH=MX_WIDTH&AV_HEIGHT=MX_HEIGHT&AV_LANGUAGE=MX_DEVICE_LANGUAGE&AV_IFA_TYPE=MX_IFA_TYPE&AV_CATEGORY=IAB1-5&AV_TITLE=ZEE-MUNDO&AV_EPISODE=MX_CONTENT_EPISODE&AV_CONTENT_GENRE=Family&AV_GDPR=MX_GDPR&AV_CONSENT=MX_CONSENT&AV_COPPA=MX_COPPA&AV_IDFA=MX_IFA&AV_CCPA=MX_US_PRIVACY&AV_CONTENT_CHANNEL=ZEE-MUNDO&AV_CUSTOM17=MX_CHANNEL&AV_CUSTOM18=MX_GIVN&AV_CUSTOM19=pn%3D2v2lTwj4%26context%3Dmid-13603
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",098. TELEMUNDO
+http://181.119.185.32:8000/play/a01r/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",099. azteca uno (-1 hora)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13745&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
@@ -405,7 +405,7 @@ https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
 https://travelxp-travelxp-5-es.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",127. el gourmet
-http://186.33.26.18:8000/play/a0lj/index.m3u8
+http://186.33.26.18:8000/play/a0lj/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",128. food network
 http://181.78.12.119:16123/play/ch28/index.m3u8
@@ -743,7 +743,7 @@ https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=9999226
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",234. xtra tv
 https://edge.essastream.com/xtratv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",235. M+ Cine Español
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",235. Cine Español por movistar+
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PSEKSZ2L77GDTD/31870/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",236. Telemax do
@@ -826,8 +826,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=13958&avod=1&coppa=0&td=6&
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",261. garabito tv
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",262. folklore tv
-https://play.folkloretv.pe/StreamSD/index.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",262. Warner tv
+http://181.143.230.203:8000/play/78599/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",263. Cinepolis Channel
 https://amg00740-sofa-amg00740c21-lg-mx-9398.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-cinepolislt-lgmx/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.url=[URL]&ads.ic=[IC]&ads.coppa=[COPPA]&ads.iu=[IU]&ads.idtype=[IDTYPE]&ads.lmt=[LMT]&ads.content_livestream=[CONTENT_LIVESTREAM]&ads.gpp=[GPP]&ads.channel_name=[CHANNEL_NAME]&ads.network_name=[NETWORK_NAME]&ads.gpp_sid=[GPP_SID]&ads.prodq=[PRODQ]&ads.inv_partner_domain=[INV_PARTNER_DOMAIN]&ads.schain=[SCHAIN]&ads.fck=[FCK]&ads.dmake=[DEVICE_MAKE]
@@ -1576,7 +1576,7 @@ https://live-manifest.production-public.tubi.io/live/1d55cb91-9acf-4617-9207-0ce
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",509. el conquistador
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=outdoors%2Creality&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusSpanish&ads.content_livestream=0&ads.csid=zeus_es_elconsquistado_ssai&ads.extra_eids=&ads.gam_correlator=&ads.google_ad_manager_nonce=&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=6975&ads.rakuten_streaming_id=e9b3c141-8011-44a1-9f85-8573802ce54b&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883130&ads.xumo_channel_id=88883130&ads.xumo_contentId=2054&ads.xumo_contentName=IndigeniusSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2054&ads.xumo_providerName=el-conquistador-spa-rakutentv&ads.xumo_streamId=88883130
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",510. M+ Deportes
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",510. Deportes por movistar+
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PSEKSZ2L77GDTD/31830/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",511. top barca
