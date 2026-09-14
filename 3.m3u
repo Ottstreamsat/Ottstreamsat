@@ -1472,35 +1472,35 @@ https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00AR",489. Kurdistan 24
 https://hlspackager.akamaized.net/live/DB/K24/HLS/K24.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00AR",490. إذاعة صوت الغد (صوت)
-https://sawtelghad.org:1050/;
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",490. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00AR",491. Al Husnaa (صوت) 
-https://stream.zeno.fm/pyc8kax6f2zuv
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",491. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00AR",492. Quran Radio (صوت)
 https://a2.asurahosting.com:7240/radio.mp3
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00AR",493. راديو وطني (صوت) 
-https://sawtelghad.org:8444/;
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",493. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00AR",494. راديو ألحان (صوت)
-https://sawtelghad.org:8666/;
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",494. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00AR",495. راديو تُراث (صوت)
-https://sawtelghad.org:8777/;
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",495. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00AR",496. Ch_496 (صوت) 
-http://n04.radiojar.com/8s5u5tpdtwzuv?rj-ttl=5&rj-tok=AAABoHckVIIAFyENYS1dMYcB5g
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",496. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00AR",497. راديو طرب (صوت) 
-https://sawtelghad.org:8222/;
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",497. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00AR",498. إذاعة القرآن الكريم (صوت)
-https://sawtelghad.org:8888/;
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",498. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00AR",499. elbahdja (صوت)
-https://radioelbahdja.ice.infomaniak.ch/elbahdja.mp3
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",499. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00AR",500. Thikrayat TV
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/8cfa8fe0c96275735745b89c683b27e3/index.m3u8

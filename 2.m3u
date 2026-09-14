@@ -1,39 +1,31 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",001. 123 vallenato (audio)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 15; Mobile; rv:154.0) Gecko/154.0 Firefox/154.0
-https://radiolatina.info:10903/;
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",001. stingray éxitos del momento
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992416&ads.xumo_streamId=99992416&ads.channelId=99992416&ads.ad_tag_id=15727&ads.csid=lgchannels_mx_stingraylatinpop_ssai&ads.channelName=stingraylatinpop_mx&ads.xumo_contentName=StingrayExitosdelMomento&ads.xumo_contentId=3196&ads.xumo_providerName=StingrayExitosdelMomento&ads.xumo_providerId=3196&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=es&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",002. La reina fm (audio)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 15; Mobile; rv:154.0) Gecko/154.0 Firefox/154.0
-https://27383.live.streamtheworld.com:443/RNA_BARRANQUILLAAAC.aac?dist=oro_web
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",002. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",003. Bakanisima Stereo (audio)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 15; Mobile; rv:154.0) Gecko/154.0 Firefox/154.0
-https://play10.tikast.com:20022/stream
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",003. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",004. Radio uno (audio)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 15; Mobile; rv:154.0) Gecko/154.0 Firefox/154.0
-https://mdstrm.com/audio/632c9bbcaa9ace684913b81b/live.m3u8?_=1787168649539&dnt=true&player=6865fe1cb8f25d7257c85a93&uid=v3sjNgX9jbamUbhm9qz3hupWqHeWlfSM&sid=BSF3uJwkjQql0G8RJUqyTHhxOclmxJUt&pid=GNVlUn4WWK3oCooDKZbDL2oE8qGFSZHV&an=player-audio-ott-rcn&at=web-app&av=v1.0.98&sc=0&ref=www.rcnradio.com&res=424x948&ext_pb=0&CMCD=cid%3D%22632c9bbcaa9ace684913b81b%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22GNVlUn4WWK3oCooDKZbDL2oE8qGFSZHV%22%2Csu
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",004. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",005. 1220 vallenato puro (audio)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 15; Mobile; rv:154.0) Gecko/154.0 Firefox/154.0
-https://streaming.radiosenlinea.com.ar:10388/stream
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",005. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",006. La rumbear (audio)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 15; Mobile; rv:154.0) Gecko/154.0 Firefox/154.0
-https://stream.vocesparatumarca.net/8056/stream
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",006. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",007. Radio planeta vallenato (audio)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 15; Mobile; rv:154.0) Gecko/154.0 Firefox/154.0
-https://radio25.virtualtronics.com:20056/stream/1/
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",007. 
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",008. Yariguies Stereo (audio)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 15; Mobile; rv:154.0) Gecko/154.0 Firefox/154.0
-https://estructuraweb.com.co:9339/stream
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",008. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",009. Diciembre stereo (audio) 
-https://onlineradiobox.com/co/diciembre/?cs=co.diciembre&played=1
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",009. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",010. Free TV banda 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16564&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
@@ -91,7 +83,7 @@ http://181.119.99.246:8000/play/a02g/index.m3u8
 https://tv.arkeo.cl:19360/8068/8068.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",028. TELE NOSTALGIA
-http://181.118.153.15:8000/play/mb00/index.m3u8 ⚪ 
+http://181.118.153.15:8000/play/mb00/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",029. ch_29
 https://sistemastr.tropicalmoonmedia.com:443/live/219197C7B6902B1A4D33D19600E9BE7A/4.m3u8?PlaylistM3UCL
@@ -146,9 +138,8 @@ https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",044. Salsa gorda televisión
 https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",045. stingray éxitos del momento
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992416&ads.xumo_streamId=99992416&ads.channelId=99992416&ads.ad_tag_id=15727&ads.csid=lgchannels_mx_stingraylatinpop_ssai&ads.channelName=stingraylatinpop_mx&ads.xumo_contentName=StingrayExitosdelMomento&ads.xumo_contentId=3196&ads.xumo_providerName=StingrayExitosdelMomento&ads.xumo_providerId=3196&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=es&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",045. Bandamax
+http://45.186.106.194:9999/play/a06v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",046. sentimiento vallenato
 https://hvtraficonew.ddns.net/pastocnc4/cnc4/playlist.m3u8
@@ -167,20 +158,20 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",050. bethel tv
 http://209.14.119.203:8000/play/a0ay/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",051. 3abn latino
-https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",051. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",052. cbn espanol
-https://fastly.live.brightcove.com/6383462549112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgzNDYyNTQ5MTEyIn0.g04lznsvgqgIXQt2ZH0H_tWtIeTsMgGjVORsjOJ0T6U/playlist-hls.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",052. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",053. peniel tv biblia abierta
 https://s.emisoras.tv:8081/penielbibliaabierta/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",054. tbn
-https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",054. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",055. televida
-https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",055. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",056. Cmb televisión
 #EXTVLCOPT:http-referrer=cmbcolombia.tv/senal-en-vivo
@@ -189,32 +180,32 @@ https://hls-m9hrfayq-livepush.akamaized.net/live_cdn/nsxlDfnVmUyEy/eme2QCj5oX02c
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",057. abn avivamiento
 https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",058. aliento visión
-https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",058. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",059. nuevo tiempo tv
-https://streamtv.novotempo.com/CDN-TV-ES/smil:tvnuevotiempo.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",059. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",060. daystar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
 https://live-mcl.cdn01.net/smarttv/64wj6m6d8/playlist.m3u8?ads.vf=pZi5TZqLjCe
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",061. Telefamilia
-https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",061. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",062. cci
-https://livestream.mediacci.com/ccitv/index.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",062. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",063. angel tv
-https://janya-digimix.akamaized.net/vglive-sk-351398/spanish/ngrp:angelspanish_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",063. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",064. Televid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 15; Mobile; rv:152.0) Gecko/152.0 Firefox/152.0
 #EXTVLCOPT:http-referrer=https://televidplay.tv/
 https://liveingesta118.cdnmedia.tv/televidtvlive/rtmp02-1500/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",065. canal orbe 21
-https://stream.arcast.net:4443/canal21/ngrp:canal21_all/chunklist_w542801212_b413840.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",065. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",066. tv familia
 https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/playlist.m3u8
@@ -225,14 +216,14 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",068. monte maria
 https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",069. cetelmón tv
-http://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_high.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",069. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",070. canal diocesano
-https://nlb1-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/fragments/live-1000/index.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",070. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",071. padre pio tv
-https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",071. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",072. lvm la voz de maria
 https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8
@@ -270,11 +261,11 @@ https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 15; Mobile; rv:154.0) Gecko/154.0 Firefox/154.0
 http://directo.ddns.me:2082/live/56930393476sp/180726tk/36067.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",083. canal 2 misiones
-https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",083. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",084. canal 7 neuquén
-https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",084. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",085. rcn 
 http://181.225.73.159:8000/play/a05h/index.m3u8
@@ -282,8 +273,8 @@ http://181.225.73.159:8000/play/a05h/index.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",086. rcn más 
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",087. net tv
-https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",087. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",088. Las estrellas 
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
@@ -306,14 +297,14 @@ https://linear-318.frequency.stream/dist/vizio/318/hls/master/playlist.m3u8?ads.
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",094. venevision
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",095. TV+
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",095. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",096. TV azteca conecta 
 https://api-ott-azteca-azt.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=63&partner=metax&content_network=MetaXTV&app_bundle=MX_APP_BUNDLE&app_store_url=MX_APP_STORE_URL&cb=MX_CACHEBUSTER&device_id=MX_DUID&gdpr=MX_GDPR&gdpr_consent=MX_CONSENT&us_privacy=MX_US_PRIVACY&device_width=MX_WIDTH&device_height=MX_HEIGHT
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",097. Ecuavisa
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",097. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",098. Telemundo
 http://181.119.185.32:8000/play/a01r/index.m3u8?hls
@@ -372,14 +363,14 @@ http://181.119.67.133:8888/play/a08s/index.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",116. Canal Como Dice el Dicho
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W]&AV_HEIGHT=[ADS.H]&AV_APPNAME=[ADS.APP_NAME]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_CCPA=[ADS.US_PRIVACY]&AV_GDPR=[ADS.GDPR]&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_URL=&AV_CONTENT_TITLE=&AV_CONTENT_EPISODE=&AV_CONTENT_SERIES=&AV_CONTENT_SEASON=&AV_CONTENT_KEYWORDS=&AV_CONTENT_NETWORK=&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_LENGTH=&AV_VAUTH=[ADS.VAUTH]&AV_DNT=[ADS.DNT]&Content_Id=[ADS.ADS_CONTENTID]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_OSVERS=[ADS.DEVICE_OSV]&AVS_SSAIID=699f1f16706a30082b0aa827&AV_CONTENT_LANGUAGE=es&AV_CONTENT_GENRE=Drama&AV_CONTENT_CAT=IAB1-7&AV_CONTENT_RATING=TV-14&AV_CLIENT_SECTION=Televisa%20S.%20de%20R.L.%20de%20C.V_Como%20Dice%20el%20Dicho&content_channel_name=Como%20Dice%20el%20Dicho&content_livestream=1&AV_CONTENT_PROVIDER=Televisa%20S.%20de%20R.L.%20de%20C.V&ads.vidaa_ads_param=1195788221&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=6465
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",117. Quiero TV
-https://stream.ontvmx.com/ontv/ghxTYEQmKkB2UJyVuW/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",117. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",118. wedo tv
 https://amg00735-amg00735c15-rakuten-es-8598.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedoamor-rakutenes/playlist.m3u8?ads_amagi_channel_id=1051&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=romance%2Csoap-opera&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=185.214.97.75&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=12&ads_rtv_content_id=7049&ads_rtv_content_language=es&ads_rtvid=271859&ads_streaming_id=f37193d5-f758-4d95-865b-97bed35b91da&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",119. ciudad magazine
-https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",119. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",120. Tv5 monde+ Voyage
 https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-68b74a235dc5413c905efd62/?X-Plex-Token=wUsAc7hqhua9wueC1bR9
@@ -658,48 +649,48 @@ https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",207. dark matter tv
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992264&ads.xumo_streamId=99992264&ads.channelId=99992264&ads.csid=lgchannels_mx_darkmattermexico_ssai&ads.channelName=darkmattermexico_mx&ads.xumo_contentName=DarkMatterMexico&ads.xumo_contentId=3441&ads.xumo_providerName=DarkMatterMexico&ads.xumo_providerId=3441&ads.content_category=IAB1-5&ads.content_genre=movies&ads.content_language=en&ads.content_rating=tv-ma&ads.coppa=0&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",208. 7 televalencia
-https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",208. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",209. universal tv
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.4 (Linux;Android 15; 15zss0o)
 http://190.83.15.112:8000/play/a066/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",210. Canal 34 San Juan
-https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",210. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",211. tv copán
-https://s.emisoras.tv:8081/tvcopan/index.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",211. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",212. wtv
-https://cloudvideo.servers10.com:8081/8130/index.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",212. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",213. limón tv
-https://59ef525c24caa.streamlock.net/limontv1/limontv1/.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",213. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",214. canal dtv
-https://s.emisoras.tv:8081/dtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",214. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",215. nicoya tv
-https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",215. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",216. imagen universal tv
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",217. valle nuevo tv 
-https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",217. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",218. caracola tv
-https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",218. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",219. cosmos tv
-https://canaletaplus.com:3922/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",219. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",220. r&e tv
-https://cloud2.streaminglivehd.com:1936/8072/8072/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",220.
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",221. neo tv
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",221. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",222. box cinema
 https://f570dedd03914e34a94fa4d318deddb5.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp_796/X2V8EZJVA1604HR5VJTX/hls3/now,-1m/m.m3u8?ads.channel_name=Box+Cinema&ads.content_cat=IAB1-5&ads.content_genre=Action%2CAdventure%2CCrime%2CDrama%2CEntertainment%2CFilm%2CMystery%2CLATAM%2CMovies%2CIndependent+Movies%2CHispanic&ads.content_id=SKL101&ads.content_language=es&ads.content_title=outlaws+buckle&ads.ic=IAB1-7&ads.provider=Klasko&ads.rating=TV14&ads.app_name=Whale+TV%2B&ads.device_make=&ads.device_model=&ads.did=cc873cb7-0d45-4bdd-af14-d8f2d7ff400c&ads.gdpr=0&ads.gdpr_consent=&ads.h=&ads.w=&ads.url=whaletvplus.com&ads.us_privacy=1YNN&ads.lmt=&ads.livestream=1&ads.coppa=0
@@ -733,20 +724,20 @@ https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",231. panico
 http://181.78.8.199:8000/play/a0bt/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",232. Red tve ventanas
-https://s2.tvdatta.com:3825/live/redtvelive.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",232. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",233. ch_233
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992262&ads.xumo_streamId=99992262&ads.channelId=99992262&ads.csid=lgchannels_mx_peliculasgratis_ssai&ads.channelName=peliculasgratis_mx&ads.xumo_contentName=XumoAggregate&ads.xumo_contentId=5&ads.xumo_providerName=XumoAggregate&ads.xumo_providerId=5&ads.content_category=IAB1-7&ads.content_genre=Movies&ads.content_language=es&ads.content_rating=tv-ma&ads.coppa=0&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",234. xtra tv
-https://edge.essastream.com/xtratv/index.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",234. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",235. Cine Español por movistar+
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PSEKSZ2L77GDTD/31870/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",236. Telemax do
-https://edge.essastream.com/telemax/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",236. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",237. Golden
 http://181.78.82.130:8000/play/a0nj/index.m3u8
@@ -757,11 +748,11 @@ https://live-manifest.production-public.tubi.io/live/3900e8be-5992-4e76-9d58-9f8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",239. FX
 http://181.78.49.113:9999/play/a03z/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",240. Boreal televisión
-https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",240. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",241. Cascara TV
-https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",241. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",242. todo cine
 https://jmp2.uk/rok-b015fcbafb496320954672321e746f8a.m3u8
@@ -784,7 +775,7 @@ http://190.123.76.22:8002/play/a04r/index.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",248. AMC Series
 http://181.205.205.170:8000/play/a0vc/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",249. amc español
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",249. AMC español
 https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",250. Europa Europa
@@ -820,8 +811,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=12781&avod=1&coppa=0&td=6&
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",260. lg 1 spotlight
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13958&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",261. garabito tv
-https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",261. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",262. Warner tv
 http://181.143.230.203:8000/play/78599/index.m3u8
@@ -841,8 +832,8 @@ http://45.167.1.136:8000/play/a02t
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",267. multipremier 
 http://45.167.1.136:8000/play/a04k
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",268. nicarao tv
-http://45.167.1.136:8000/play/a010
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",268. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",269. studio universal 
 http://45.167.1.136:8000/play/a05f
@@ -850,8 +841,8 @@ http://45.167.1.136:8000/play/a05f
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",270. tcm
 http://190.123.76.22:8002/play/a03k/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",271. la reina tv
-https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",271. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",272. Popcorn Central
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16571&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_mx&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
@@ -1597,8 +1588,8 @@ https://jmp2.uk/stvp-ES3400002PY
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",517. Canal  Deportes (pluto TV) 
 https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",518. tnt sports
-http://45.173.231.22:8000/play/a020/index.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",518. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",519. 
 http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
@@ -1642,9 +1633,8 @@ http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",532. motovision 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=757&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=tzFRBf5UEBHD_vbznsUx&custom_7=60da3a5c0d1cc1002c38370e
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",533. tv cuatro deportes
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://5ca3e84a76d30.streamlock.net/tv43gto/smil:tv43gto.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",533. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",534. Euro sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
@@ -1677,8 +1667,8 @@ http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",543. bein sports xtra ñ
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",544. directv sports
-http://181.205.205.170:8888/play/a0x5/index.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",544. 
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",545. 
 http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
