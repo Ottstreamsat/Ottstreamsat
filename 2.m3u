@@ -199,7 +199,7 @@ http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",064. Televid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 15; Mobile; rv:152.0) Gecko/152.0 Firefox/152.0
 #EXTVLCOPT:http-referrer=https://televidplay.tv/
-https://liveingesta118.cdnmedia.tv/televidtvlive/rtmp02-1500/chunklist.m3u8
+https://domapp2.site/live/abc991435082/991435082abc/693751.ts
 
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",065. 
 http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
@@ -274,7 +274,7 @@ https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",088. Las estrellas 
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+http://138.121.15.230:9002/LAS-ESTRELLAS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",089. e! entertairment
 http://181.119.86.1:8000/play/a0f9
@@ -369,8 +369,8 @@ https://amg00735-amg00735c15-rakuten-es-8598.playouts.now.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="0000",119. 
 http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",120. Tv5 monde+ Voyage
-https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-68b74a235dc5413c905efd62/?X-Plex-Token=wUsAc7hqhua9wueC1bR9
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",120. Discovery Home & Health
+http://45.70.168.162:876/play/a01q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="00ES",121. Tv5 monde+ chefs
 #EXTVLCOPT:http-user-agent=app/12.302 (Linux;Android 15) ExoPlayerLib/2.19.1
