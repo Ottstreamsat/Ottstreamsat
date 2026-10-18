@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:0 group-title="SEÑAL ABIERTA",001. Cos1 televisión (canal local)
+#EXTGRP:SEÑAL ABIERTA
+#EXTVLCOPT:network-caching=1000
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
+#EXTINF:0 group-title="SEÑAL PRUEBA IPTV",002. Cos1 TVPI +573158378888 WhatsApp
+#EXTGRP:SEÑAL PRUEBA IPTV
+#EXTVLCOPT:network-caching=1000
+http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
